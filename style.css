@@ -382,7 +382,7 @@ header .navbar a:hover {
 
 .box h2 {
   font-size: 30px;
-  color: white;
+  color: blue;
   margin-bottom: 20px;
 }
 
@@ -522,7 +522,7 @@ img {
 @media (max-width:991px) {
 
   html {
-    font-size: 55%;
+    font-size: 45%;
   }
 
   body {
@@ -584,7 +584,7 @@ img {
 @media (max-width:400px) {
 
   html {
-    font-size: 40%;
+    font-size: 30%;
   }
   
 
