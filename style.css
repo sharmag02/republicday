@@ -354,6 +354,7 @@ header .navbar a:hover {
   justify-content: center;
   margin-top: 20px;
   font-size: 40px;
+color: blue;
 }
 
 .team .box {
@@ -382,7 +383,7 @@ header .navbar a:hover {
 
 .box h2 {
   font-size: 30px;
-  color: blue;
+  color: white;
   margin-bottom: 20px;
 }
 
